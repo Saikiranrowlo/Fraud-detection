@@ -3,7 +3,9 @@
 
 An open-source project for ROSP Lab based on Fraud Detection using ML
 
-## Tech stack - python 
+## Tech stack 
+- python 3
+
 
 ## Contributors
 
