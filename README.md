@@ -14,6 +14,16 @@ Fraud-detection/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Saikiranrowlo/Fraud-detection" />
 </a>
 
+## Contributors
+
+- [ Saikiran Rowlo](https://github.com/Saikiranrowlo)
+
+- [Akash Rokade](https://github.com/akashrokade1432)
+
+- [Rutuja Sanap](https://github.com/rutujasanap)
+
+- [Ashutosh Salve](https://github.com/ashutosh2908)
+
 
 ## LICENSE
 
