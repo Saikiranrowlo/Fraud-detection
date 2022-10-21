@@ -7,13 +7,10 @@ An open-source project for ROSP Lab based on Fraud Detection using ML
 
 ## Contributors
 
-- [ Saikiran rowlo](https://github.com/Saikiranrowlo)
-
-- [Ashutosh Salve](https://github.com/#)
-
-- [Akash Rokade](https://github.com/#)
-
-- [Rutuja sanap](https://github.com/#)
+<a href="https://github.com/Saikiranrowlo/
+Fraud-detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Saikiranrowlo/Fraud-detection" />
+</a>
 
 
 ## LICENSE
